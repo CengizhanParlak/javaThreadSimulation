@@ -38,11 +38,11 @@ There can only be 8 sub threads because of the design of the code but source cod
 
 ### Screenshots  
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Program SS")  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Program SS")  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Program SS")  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Program SS")  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Program SS")  
+![alt text](https://github.com/CengizhanParlak/javaThreadSimulation/blob/main/screenshots/img.png "Program SS")  
+![alt text](https://github.com/CengizhanParlak/javaThreadSimulation/blob/main/screenshots/img_1.png "Program SS")  
+![alt text](https://github.com/CengizhanParlak/javaThreadSimulation/blob/main/screenshots/img_2.png "Program SS")  
+![alt text](https://github.com/CengizhanParlak/javaThreadSimulation/blob/main/screenshots/img_3.png "Program SS")  
+![alt text](https://github.com/CengizhanParlak/javaThreadSimulation/blob/main/screenshots/img_4.png "Program SS")  
 
 ### Demo  
 
